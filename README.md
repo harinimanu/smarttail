@@ -1,3 +1,4 @@
+# smarttail
 <!-- I have learned about the median filter and how it works.
 
 The basic idea behind this filter is for any element of the signal to look at its neighborhood and pick up the element that is most similar.
